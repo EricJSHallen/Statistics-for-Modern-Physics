@@ -6,7 +6,7 @@ x = npy.linspace(0,100,50)
 y = x
 
 plt.plot(x,y)
-
+plt.show()
 
 
 
